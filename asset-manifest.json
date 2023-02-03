@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fireflies/static/css/main.c7efede7.css",
+    "main.js": "/fireflies/static/js/main.83de9104.js",
+    "index.html": "/fireflies/index.html",
+    "main.c7efede7.css.map": "/fireflies/static/css/main.c7efede7.css.map",
+    "main.83de9104.js.map": "/fireflies/static/js/main.83de9104.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7efede7.css",
+    "static/js/main.83de9104.js"
+  ]
+}
